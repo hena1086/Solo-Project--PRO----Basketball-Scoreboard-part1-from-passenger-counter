@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+    
+}
+
+.container {
+    display: flex;
+    height: 200px;
+    
+    justify-content: space-around;
+    background-color: #1B244A;
+    color: white
+}
+.input{
+    display: flex;
+    background-color: #080001;
+    height:60px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    color: #F94F6D;
+    
+}
+.btn {
+    background-color: inherit;
+    border: 1px solid white;
+    color: white;
+}
